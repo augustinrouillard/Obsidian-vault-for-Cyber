@@ -1,5 +1,5 @@
 ---
 share: true
 ---
-KDBX -> keepass ou gestionnaire de mot de passe 
-TIFF ->
+KDBX -> keepass or password manager
+TIFF -> Adobe image 
