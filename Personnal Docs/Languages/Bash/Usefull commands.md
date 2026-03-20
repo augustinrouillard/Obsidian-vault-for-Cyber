@@ -63,4 +63,10 @@ To list command i am authorized to exec
 sudo -l
 ```
 
+## 7. Send files  when connected with ssh
+
+
+```bash
+scp /path/file user@ip:/path/destination/
+```
 ---
