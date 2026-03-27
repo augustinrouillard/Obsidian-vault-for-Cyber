@@ -69,4 +69,15 @@ sudo -l
 ```bash
 scp /path/file user@ip:/path/destination/
 ```
+## 8. Type automatically yes when use a command
+
+```
+-y
+
+```
+Like this :
+```
+sudo apt update
+sudo apt upgrade -y
+```
 ---
