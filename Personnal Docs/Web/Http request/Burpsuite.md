@@ -48,3 +48,19 @@ Use Burp Suite to intercept, modify, and forward HTTP requests.
 A `PHPSESSID` in the response indicates a PHP-based session is being used.
 
 ```
+
+## 2. Other tips
+
+To launch multiple request in order to brut-force directories : 
+```
+1.Start interception and open burpsuite browser
+
+2.Go in the intruder section
+
+3.Use "sniper attack" and press "add"
+
+4.Add list of characters
+
+5.Launch the attack
+
+```
