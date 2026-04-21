@@ -138,5 +138,3 @@ The HTTP server displays the default Apache2 Ubuntu page.
 - [screen-v4.5.0-priv-escalate GitHub](https://github.com/YasserREED/screen-v4.5.0-priv-escalate)
 
 ---
-
-Let me know if you want this in a different format (e.g., Markdown with Obsidian callouts, or with more/less detail)!
