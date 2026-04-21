@@ -18,7 +18,7 @@ It is organized into three main folders:
 - **Scripts**
 
 **CTF**  
-This folder contains write-ups and solutions from various Capture The Flag challenges, categorized by topics such as Cryptography, Forensics, OSINT, Web, etc.
+This folder contains write-ups and solutions from various Capture The Flag challenges, categorized by topics such as Cryptography, Forensics, OSINT, Web, etc..
 
 **Personal Docs**  
 This folder includes technical datasheets and practical guides for different cybersecurity topics.
