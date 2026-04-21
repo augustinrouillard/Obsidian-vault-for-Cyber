@@ -81,3 +81,10 @@ sudo apt update
 sudo apt upgrade -y
 ```
 ---
+## 9. Download and install .deb
+
+When you are in the floder containing file.deb
+
+```
+sudo dpkg -i file.deb
+```
