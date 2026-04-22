@@ -27,6 +27,7 @@ share: true
 - Anonymous FTP access allows you to connect without a registered account.
 - You may have limited permissions (often only download, sometimes upload).
 - Always check what files and directories are accessible after login.
+- If your are connected with ftp you can use wget and put to get and send files.
 
 ---
 
