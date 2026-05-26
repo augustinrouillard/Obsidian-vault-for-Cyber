@@ -48,3 +48,12 @@ Vary: Cookie
 <body class="vrc-body account-page">
     <h1 class="account-title">Welcome, TGV</h1>
 ```
+
+-----
+
+## POC
+
+[[Before entering verification code.png|Before entering verification code.png]]
+[[Http request.png|Http request.png]]
+[[Http response.png|Http response.png]]
+[[Granting access to community page.png|Granting access to community page.png]]
