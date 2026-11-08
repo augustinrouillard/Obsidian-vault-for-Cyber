@@ -37,4 +37,4 @@ share: true
   * Activé par défaut : bloque certains flux en entrée et les autorise tous en sortie.
   * Intègre des règles prédéfinies activables et s'adapte à la situation du poste selon l'emplacement réseau.
   * Administrable de manière centralisée (stratégies, export).
-* **Note de terrain :** on privilégie généralement un
+* **Note de terrain :** on privilégie généralement un pare feu matériel à un pare feu logiciel (plus sécurisé).
