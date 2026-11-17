@@ -43,6 +43,11 @@ I do this out of passion; I'm not a professional, so it's probably not perfect.
 ├──────────────────┬──────────────────────────────┬──────────────────────────────┤
 │ Folders          │ Categories                   │ Purpose                      │
 ├──────────────────┼──────────────────────────────┼──────────────────────────────┤
+|  /Box            | • TryHackMe                  |  Write-ups and solutions     |
+|                  | • Rootme                     |  from training web plateforms|
+|                  | • HacktheBox                 |  (I need some time to get    |
+|                  |                              |  them back into shape)       |
+├──────────────────┼──────────────────────────────┼──────────────────────────────┤
 │ /CTF             │ • Cryptography               │ Write-ups and solutions      │
 │                  │ • Forensics                  │ from CTF challenges          │
 │                  │ • Misc                       │                              │
@@ -60,7 +65,11 @@ I do this out of passion; I'm not a professional, so it's probably not perfect.
 │ /Scripts         │ Extract red bytes            │ Reusable scripts             │
 │                  │ Other utilities              │ for automation               │
 ├──────────────────┼──────────────────────────────┼──────────────────────────────┤
-│ /To complete...  │ Networks layers              │ Resources still under        │
-│                  │ HTTP errors table            │ learning                     │
+│ /Systèmes et     │ • Distribution Linux et GNU  │ Ma propre bibliothèque de    │
+|  Réseaux         | • Les bases du réseau        | notes sur le système réseau  |
+│ (Only in French  │ • Microsoft et outils colla- │                              │
+|  for now)        |   boratifs                   |                              |
+|                  | • Powershell                 |                              |
+|                  | • Systèmes clients Microsoft |                              |
 └──────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
