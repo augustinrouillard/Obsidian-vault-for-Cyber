@@ -19,6 +19,8 @@ It is organized into three main folders:
 - **Scripts**
 - **Systèmes et réseaux**
 
+---
+
 **BOX**
 This folder contains write-ups and solutions from cyber plateforms. Some of the box i did are not in the folder (I still need some time to tidy up my notes so that they’re easy to understand).
 
@@ -49,6 +51,8 @@ Je m'en sert à la fois pour mes révisions et comme bibliothèque dans laquelle
 J'essaie de mettre les informations à jour mais tout n'est peut-être pas optimisé (je vous invite à vérifier par vous même sans prendre ce que vous trouverez ici comme vérité absolue).
 
 Ici comme pour le reste des dossiers, je l'ai construit par passion et je suis conscient d'avoir encore beaucoup à apprendre :) .
+
+---
 
 ## [Architecture](#Architecture)
 
